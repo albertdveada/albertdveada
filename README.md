@@ -1,6 +1,6 @@
-![background](img/background.png)
-
 # Hello World! i'm Alber Devada👋
+
+![background](img/background.png)
 
 <!--
 **albertdveada/albertdveada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
