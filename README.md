@@ -2,10 +2,10 @@
 
 
 # Hello World! I'm Albert Devada👋
-Saya seorang penggemar teknologi dengan rasa ingin tahu yang tinggi terhadap dunia digital. Saya senang belajar dan bereksperimen untuk memahami bagaimana teknologi bekerja secara menyeluruh. Bagi saya, setiap kesalahan adalah bagian penting dari proses pembelajaran.
+I am a technology enthusiast with a strong curiosity about the digital world. I enjoy learning and experimenting to understand how technology works as a whole. For me, every mistake is an important part of the learning process.
 
-## 🔍 Minat Saya
-Saya tertarik untuk menjadikan sebuah sistem berjalan lebih baik, lebih efisien, dan terus berkembang.😊
+## 🔍 My Interests
+I am interested in making systems run better, more efficiently, and continue to improve. 😊
 
 ## 🚀 Let's Connect!
 <a href="https://instagram.com/albert_devada" target="_blank">
