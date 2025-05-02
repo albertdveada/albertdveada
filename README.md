@@ -1,18 +1,13 @@
 ![background](img/background.png)
 
-# Hello World! I'm Albert Devada⚡
 
-<!--
-**albertdveada/albertdveada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World! I'm Albert Devada👋
+Saya seorang penggemar teknologi dengan rasa ingin tahu yang tinggi terhadap dunia digital. Saya senang belajar dan bereksperimen untuk memahami bagaimana teknologi bekerja secara menyeluruh. Bagi saya, setiap kesalahan adalah bagian penting dari proses pembelajaran.
 
-Here are some ideas to get you started:
+## 🔍 Minat Saya
+Saya tertarik untuk menjadikan sebuah sistem berjalan lebih baik, lebih efisien, dan terus berkembang.😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Let's Connect!
+![https://instagram.com/albert_devada](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://t.me/albertdevada](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
+![https://linkedin.com/in/noufalburhan/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://hackerone.com/albertdevada](https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white) ![https://bugcrowd.com/albertdevada](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)  
+
