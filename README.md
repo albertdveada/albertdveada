@@ -16,7 +16,7 @@ I am interested in making systems run better, more efficiently, and continue to 
 | 🔬 **Experiments & Personal** | [🔗 Explore](https://github.com/albertdveada/Experiments) |
 | 📘 **Learning & Tutorials** | [🔗 Explore](https://github.com/albertdveada/Learning) |
 | 🛡️ **Backend & Security** | [🔗 Explore](https://github.com/albertdveada/Backend-Security) |
-| 🎓 **University Projects** | [🔗 Explore](https://github.com/albertdveada/University_Projects) |
+| 🎓 **University Projects** | [🔗 Explore](https://github.com/albertdveada/University-Projects) |
 
 ## 🚀 Let's Connect!
 <a href="https://instagram.com/albert_devada" target="_blank">
