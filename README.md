@@ -1,5 +1,6 @@
 ![background](img/background.png)
 
+**[ [🇮🇩 INDONESIAN LANGUAGE VERSION](https://translate.google.com/translate?hl=&sl=en&tl=id&u=https://github.com/albertdveada) ]**
 
 # Hello World! I'm Albert Devada👋
 I am a technology enthusiast with a strong curiosity about the digital world. I enjoy learning and experimenting to understand how technology works as a whole. For me, every mistake is an important part of the learning process.
@@ -13,10 +14,10 @@ I am interested in making systems run better, more efficiently, and continue to 
 
 | Category | Quick Access |
 |----------|--------------|
-| 🔬 **Experiments & Personal** | [🔗 Explore](https://github.com/albertdveada/Experiments/blob/main/README.md) |
-| 📘 **Learning & Tutorials** | [🔗 Explore](https://github.com/albertdveada/Learning/blob/main/README.md) |
-| 🛡️ **Backend & Security** | [🔗 Explore](https://github.com/albertdveada/Backend-Security/blob/main/README.md) |
-| 🎓 **University Projects** | [🔗 Explore](https://github.com/albertdveada/University-Projects/blob/main/README.md) |
+| 🔬 **Experiments & Personal** | [🔗 Explore](https://github.com/albertdveada/Experiments) |
+| 📘 **Learning & Tutorials** | [🔗 Explore](https://github.com/albertdveada/Learning) |
+| 🛡️ **Backend & Security** | [🔗 Explore](https://github.com/albertdveada/Backend-Security) |
+| 🎓 **University Projects** | [🔗 Explore](https://github.com/albertdveada/University_Projects) |
 
 ## 🚀 Let's Connect!
 <a href="https://instagram.com/albert_devada" target="_blank">
