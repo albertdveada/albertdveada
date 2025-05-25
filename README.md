@@ -1,7 +1,5 @@
 ![background](img/background.png)
 
-**[ [🇮🇩 INDONESIAN LANGUAGE VERSION](https://translate.google.com/translate?hl=&sl=en&tl=id&u=https://github.com/albertdveada) ]**
-
 # Hello World! I'm Albert Devada👋
 I am a technology enthusiast with a strong curiosity about the digital world. I enjoy learning and experimenting to understand how technology works as a whole. For me, every mistake is an important part of the learning process.
 
