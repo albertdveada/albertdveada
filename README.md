@@ -1,4 +1,4 @@
-![background](img/background.png)
+![background](img/backgroundgt.png)
 
 # Hello World! I'm Albert Devada👋
 I am a technology enthusiast with a strong curiosity about the digital world. I enjoy learning and experimenting to understand how technology works as a whole. For me, every mistake is an important part of the learning process.
