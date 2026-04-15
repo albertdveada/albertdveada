@@ -24,14 +24,11 @@ I am interested in making systems run better, more efficiently, and continue to 
 <a href="https://t.me/albertdevada" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/noufalburhan/" target="_blank">
+<a href="https://www.linkedin.com/in/albertdevada/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://hackerone.com/albertdevada" target="_blank">
   <img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
-</a>
-<a href="https://bugcrowd.com/albertdevada" target="_blank">
-  <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
 </a>
 
 ---
