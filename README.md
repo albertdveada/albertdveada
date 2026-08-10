@@ -21,7 +21,7 @@
 
 I am a **Software Engineer** and **Technology Enthusiast** with a strong curiosity about the digital world. I enjoy learning and experimenting to understand how technology works as a whole, believing that every mistake is an important part of the learning process.
 
-- 🌐 **Live Portfolio:** Explore my interactive platform at [**https://albertdevada.me**](https://albertdevada.me)
+- 🌐 **Live Portfolio:** Explore my interactive platform at [Open Website Now](https://albertdevada.me)
 - 🔭 **Focus Areas:** Software Engineering & Cybersecurity
 - ⚡ **Goal:** Building secure, fast, and scalable digital solutions
 
@@ -33,14 +33,14 @@ I am a **Software Engineer** and **Technology Enthusiast** with a strong curiosi
 
 <p align="center">
   <a href="https://github.com/albert-devada" target="_blank">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=albert-devada&show_icons=true&theme=tokyonight&hide_border=true" alt="Albert's GitHub Stats" height="175"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=albert-devada&show_icons=true&theme=tokyonight&hide_border=true" alt="Albert's GitHub Stats" height="165"/>
   </a>
   <a href="https://github.com/albert-devada" target="_blank">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=albert-devada&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=albert-devada&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
   </a>
   <br/>
   <a href="https://github.com/albert-devada" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=albert-devada&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
+    <img src="https://streak-stats.demolab.com/?user=albert-devada&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
