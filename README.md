@@ -1,7 +1,9 @@
 <p align="center">
     <img src="img/cover.gif" alt="Albert Devada Cover Banner" width="100%"/>
     <br>
+    <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi+There!+I'm+Albert+Devada+👋;Software+Engineer+%26+Cybersecurity;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <br>
     <br>
     <a href="https://albertdevada.me" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-albertdevada.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio" />
