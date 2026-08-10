@@ -17,7 +17,7 @@
   </a>
 </p>
 
-# Personal Introduction
+## Personal Introduction
 
 I am a **Software Engineer** and **Technology Enthusiast** with a strong curiosity about the digital world. I enjoy learning and experimenting to understand how technology works as a whole, believing that every mistake is an important part of the learning process.
 
