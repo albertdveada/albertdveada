@@ -1,23 +1,21 @@
-<img src="img/cover.gif" alt="Albert Devada Cover Banner" width="100%"/>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi+There!+I'm+Albert+Devada+👋;Software+Engineer+%26+Cybersecurity;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <a href="https://albertdevada.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-albertdevada.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio" />
-  </a>
-  <a href="https://instagram.com/albert_devada" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-albert__devada-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <br />
-  <a href="https://www.linkedin.com/in/albertdevada/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Albert_Devada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="img/cover.gif" alt="Albert Devada Cover Banner" width="100%"/>
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi+There!+I'm+Albert+Devada+👋;Software+Engineer+%26+Cybersecurity;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <br>
+    <a href="https://albertdevada.me" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-albertdevada.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio" />
+    </a>
+    <a href="https://instagram.com/albert_devada" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-albert__devada-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <br />
+    <a href="https://www.linkedin.com/in/albertdevada/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Albert_Devada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
 </p>
 
-## Personal Introduction
+# Personal Introduction
 
 I am a **Software Engineer** and **Technology Enthusiast** with a strong curiosity about the digital world. I enjoy learning and experimenting to understand how technology works as a whole, believing that every mistake is an important part of the learning process.
 
